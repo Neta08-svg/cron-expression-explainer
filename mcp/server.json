@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.neta08-svg/cronkit",
+  "description": "Explain a cron expression in plain English and list the next run times.",
+  "version": "1.0.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "cronkit-mcp", "version": "1.0.0", "transport": { "type": "stdio" } }
+  ]
+}
